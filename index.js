@@ -97,7 +97,7 @@ class NovaStarInstance extends InstanceBase {
 				width: 12,
 				label: 'Information',
 				value:
-					'This module will connect to a NovaStar MCTRL4K, VX4S, VX6S, NovaProHD, or NovaPro UHD Jr,VX1000, VX600, VX16S & J6 LED Processor.',
+					'This module will connect to a NovaStar MCTRL4K, VX4S, VX6S, NovaProHD, or NovaPro UHD Jr, VX1000, VX2000 Pro, VX600, VX16S & J6 LED Processor.',
 			},
 			{
 				type: 'textinput',
