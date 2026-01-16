@@ -1,6 +1,6 @@
 # NovaStar Controller
 
-This module will allow you to control the following NovaStar products: MCTRL4K, VX4S, VX6S, NovaProHD, NovaPro UHD Jr,VX1000, VX600, VX16s And J6
+This module will allow you to control the following NovaStar products: MCTRL4K, VX4S, VX6S, NovaProHD, NovaPro UHD Jr, VX1000, VX2000 Pro, VX600, VX16s And J6
 
 There is also some support for MSD300, MCTRL300, MCTRL500, MSD600, MCTRL600, MCTRL660.
 Some of these models can be controlled with a RS232 interface bridge.
@@ -19,6 +19,7 @@ Some of these models can be controlled with a RS232 interface bridge.
 - Change working mode on VX6S AND J6
 - Recall Presets on VX6s, UHD Jr, VX600, VX16s, VX1000, J6
 - Change main and PIP layer settings for VX1000
+- Change main and PIP layer settings for VX2000 Pro (supports 12 layers)
 
 **VX4S, VX6S, NovaProHD, NovaProHDJr only:**
 
